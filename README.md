@@ -1,4 +1,6 @@
-something script_school_exercises
+script_school_exercises
 =======================
 
 HTML CSS JS exercises 
+
+
